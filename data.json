@@ -1,0 +1,33 @@
+{
+    "ARTICLES": [{
+            "id": "1",
+            "uri": "https://ichef.bbci.co.uk/news/660/cpsprodpb/42FE/production/_113905171_macau.jpg",
+            "url": "https://www.bbc.com/news/business-53732645",
+            "text":"Dolor officia sit nulla officia. Sit irure qui irure nostrud quis fugiat ut exercitation consectetur incididunt aute ullamco. Nostrud officia commodo non dolor veniam reprehenderit anim nisi incididunt tempor dolore incididunt. Aliqua aliqua reprehenderit amet aliquip do quis aute mollit laborum dolor ipsum veniam. Minim mollit amet adipisicing sunt excepteur culpa enim ut."
+        },
+        {
+            "id": "2",
+            "uri": "https://ichef.bbci.co.uk/news/660/cpsprodpb/10072/production/_113905656_ancientbananacultivationsite.png",
+            "url": "https://www.bbc.com/news/world-australia-53746652",
+            "text":"Dolor officia sit nulla officia. Sit irure qui irure nostrud quis fugiat ut exercitation consectetur incididunt aute ullamco. Nostrud officia commodo non dolor veniam reprehenderit anim nisi incididunt tempor dolore incididunt. Aliqua aliqua reprehenderit amet aliquip do quis aute mollit laborum dolor ipsum veniam. Minim mollit amet adipisicing sunt excepteur culpa enim ut."
+        },
+        {
+            "id": "3",
+            "uri": "https://ichef.bbci.co.uk/news/660/cpsprodpb/B37E/production/_113905954_policeam.jpg",
+            "url": "https://www.bbc.com/news/world-asia-india-53747331",
+            "text":"Dolor officia sit nulla officia. Sit irure qui irure nostrud quis fugiat ut exercitation consectetur incididunt aute ullamco. Nostrud officia commodo non dolor veniam reprehenderit anim nisi incididunt tempor dolore incididunt. Aliqua aliqua reprehenderit amet aliquip do quis aute mollit laborum dolor ipsum veniam. Minim mollit amet adipisicing sunt excepteur culpa enim ut."
+        },
+        {
+            "id": "4",
+            "uri": "https://ichef.bbci.co.uk/news/660/cpsprodpb/17B85/production/_113875179_062819922-1.jpg",
+            "url": "https://www.bbc.com/news/world-asia-india-53723012",
+            "text":"Dolor officia sit nulla officia. Sit irure qui irure nostrud quis fugiat ut exercitation consectetur incididunt aute ullamco. Nostrud officia commodo non dolor veniam reprehenderit anim nisi incididunt tempor dolore incididunt. Aliqua aliqua reprehenderit amet aliquip do quis aute mollit laborum dolor ipsum veniam. Minim mollit amet adipisicing sunt excepteur culpa enim ut."
+        },
+        {
+            "id": "5",
+            "uri": "https://ichef.bbci.co.uk/news/660/cpsprodpb/A134/production/_113886214_gettyimages-1227996172.jpg",
+            "url": "https://www.bbc.com/news/world-asia-china-53734887",
+            "text":"Dolor officia sit nulla officia. Sit irure qui irure nostrud quis fugiat ut exercitation consectetur incididunt aute ullamco. Nostrud officia commodo non dolor veniam reprehenderit anim nisi incididunt tempor dolore incididunt. Aliqua aliqua reprehenderit amet aliquip do quis aute mollit laborum dolor ipsum veniam. Minim mollit amet adipisicing sunt excepteur culpa enim ut."
+        }
+    ]
+}
